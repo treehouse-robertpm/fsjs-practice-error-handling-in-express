@@ -1,0 +1,29 @@
+{
+  "quotes": [
+    {
+      "id": 0,
+      "quote": "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.",
+      "source": "Andy Hunt"
+    },
+    {
+      "id": 1,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "source": "Martin Fowler"
+    },
+    {
+      "id": 2,
+      "quote": "The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.",
+      "source": "Andrew Singer"
+    },
+    {
+      "id": 3,
+      "quote": "If you can’t explain something in simple terms, you don’t understand it.",
+      "source": "Richard Feynman"
+    },
+    {
+      "id": 4,
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+      "source": "John Woods"
+    }
+  ]
+}
